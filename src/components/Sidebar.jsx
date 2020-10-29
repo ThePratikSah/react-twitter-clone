@@ -8,7 +8,7 @@ import MailOutlineIcon from "@material-ui/icons/MailOutline";
 import PermIdentityIcon from "@material-ui/icons/PermIdentity";
 import MoreHorizIcon from "@material-ui/icons/MoreHoriz";
 import { Button } from "@material-ui/core";
-import "./Sidebar.css";
+import "./stylesheets/Sidebar.css";
 
 function Sidebar() {
   return (

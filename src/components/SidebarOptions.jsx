@@ -1,5 +1,5 @@
 import React from "react";
-import "./SidebarOptions.css";
+import "./stylesheets/SidebarOptions.css";
 
 // instead of using props as parameter in the function
 // I destructured this here and used it directly
